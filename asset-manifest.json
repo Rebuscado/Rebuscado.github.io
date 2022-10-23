@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rebuscado/Rebuscado.github.io.git/static/css/main.2343ba62.css",
+    "main.js": "/Rebuscado/Rebuscado.github.io.git/static/js/main.ef62771a.js",
+    "static/js/787.f3d7924f.chunk.js": "/Rebuscado/Rebuscado.github.io.git/static/js/787.f3d7924f.chunk.js",
+    "index.html": "/Rebuscado/Rebuscado.github.io.git/index.html",
+    "main.2343ba62.css.map": "/Rebuscado/Rebuscado.github.io.git/static/css/main.2343ba62.css.map",
+    "main.ef62771a.js.map": "/Rebuscado/Rebuscado.github.io.git/static/js/main.ef62771a.js.map",
+    "787.f3d7924f.chunk.js.map": "/Rebuscado/Rebuscado.github.io.git/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2343ba62.css",
+    "static/js/main.ef62771a.js"
+  ]
+}
